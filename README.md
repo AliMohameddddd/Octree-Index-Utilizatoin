@@ -93,7 +93,7 @@ Adjust page size in configuration for different workloads
 Compare performance with/without indices
 
 🤝 Contributing
-We welcome enhancements, especially:
+I welcome enhancements, especially:
 
 Alternative index structures (R-trees, LSM-trees)
 
